@@ -1,0 +1,3 @@
+# Data subfolders (avoid pushing all data but keep the structure)
+data/raw/*
+data/processed/*
