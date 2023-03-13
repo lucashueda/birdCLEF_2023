@@ -23,3 +23,4 @@ Kaggle birdCLEF 2023 competition
 # Author
 
 - Lucas Hideki Ueda (PhD. Eletrical Engeeniring | Deep Learning applied to expressive text-to-speech)
+    - lucashueda@gmail.com
